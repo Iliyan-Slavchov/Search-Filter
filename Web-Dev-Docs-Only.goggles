@@ -10,3 +10,5 @@ $discard
 !    Add sites you want to appear
 !    Syntax: site:domain.com/$boost=5
 ! ================================================================
+
+site:nodejs.org/$boost=5
