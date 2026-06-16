@@ -1,0 +1,7 @@
+! name: Web-Dev-Docs-Only
+! description: Show only docs for web development, NOTHING ELSE
+! author: Iliyan
+! public: false
+
+! === The Default Action ===
+$discard
